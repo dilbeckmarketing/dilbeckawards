@@ -374,7 +374,7 @@
           "form": {
             "action": "ashleydray3@gmail.com",
             "alerts": {
-              "success": "Thanks guys! I'll be getting back to you in the order the requests were received. \n\nYou'll soon receive a deadline for completion. If you have a specific publication date, please let me know.\n\nCongrats on your amazing win! \n\n:)\nAshley"
+              "success": "Thanks guys! I'll be getting back to you in the order the requests were received. \n\nCongrats on your amazing win! \n\n:)\nAshley"
             },
             "fields": {
               "name": {
@@ -390,11 +390,11 @@
               "subject": {
                 "visible": true,
                 "title": "subject",
-                "customTitle": "Feedback or Request PR Articles"
+                "customTitle": "Request for Award Share Image"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Let me know your name, the award, and publication type. Or you can just say hi, I like that too!"
+                "customTitle": "Let me know your name and the award you would like featured. :)"
               }
             }
           },
