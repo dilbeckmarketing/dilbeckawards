@@ -21,10 +21,13 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "4.6.7",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2018-03-27-at-1.08.16-am-128x89.png",
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
