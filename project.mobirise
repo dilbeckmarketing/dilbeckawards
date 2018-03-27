@@ -178,10 +178,10 @@
             "bgColor": "#fff",
             "images": [
               {
-                "tags": "Top Producers, Office Sales Partners",
+                "tags": "Top Producers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/anngel-benoun-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/anngel-benoun-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anngel-benuon-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/anngel-benuon-2000x2000-800x800.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "caption": "Type caption here",
@@ -189,7 +189,18 @@
                 "alt": ""
               },
               {
-                "tags": "Top Producers, Office Sales Partners",
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dan-sanchez-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dan-sanchez-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dippy-chhina-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dippy-chhina-2000x2000-800x800.jpg",
@@ -200,7 +211,7 @@
                 "alt": ""
               },
               {
-                "tags": "Top Producers, Office Sales Partners",
+                "tags": "Top Producers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "image": "@PROJECT_PATH@/assets/images/henry-suarez-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/henry-suarez-2000x2000-800x800.jpg",
@@ -213,19 +224,8 @@
               {
                 "tags": "Office Sales Partners",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/irene-daly-cheryl-allen-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/irene-daly-cheryl-allen-2000x2000-800x800.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Office Sales Partners",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mary-poehler-bernstein-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mary-poehler-bernstein-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/paulette-malekian-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paulette-malekian-2000x2000-800x800.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "caption": "Type caption here",
@@ -244,32 +244,10 @@
                 "alt": ""
               },
               {
-                "tags": "",
+                "tags": "Top Producers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/qing-yang-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/qing-yang-2000x2000-800x800.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Top Producers, Office Sales Partners",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/raplh-suarez-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/raplh-suarez-2000x2000-800x800.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Office Sales Partners",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sherry-keowen-susan-renick-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sherry-keowen-susan-renick-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ralph-suarez-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ralph-suarez-2000x2000-800x800.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "caption": "Type caption here",
@@ -288,18 +266,7 @@
                 "alt": ""
               },
               {
-                "tags": "Office Sales Partners",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/steve-purves-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/steve-purves-2000x2000-800x800.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Top Producers, Office Sales Partners",
+                "tags": "Top Producers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tim-freund-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tim-freund-2000x2000-800x800.jpg",
@@ -312,30 +279,8 @@
               {
                 "tags": "Office Sales Partners",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/chris-helberg-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/chris-helberg-2000x2000-800x800.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Office Sales Partners",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/max-pellegrini-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/max-pellegrini-2000x2000-800x800.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Office Sales Partners",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/potjanee-sri-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/potjanee-sri-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tom-masterani-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tom-masterani-2000x2000-800x800.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "caption": "Type caption here",
@@ -394,7 +339,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Let me know your name and the award you would like featured. :)"
+                "customTitle": "Let me know your name and the awards you would like featured. :)"
               }
             }
           },
