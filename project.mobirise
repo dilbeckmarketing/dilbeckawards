@@ -22,7 +22,9 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 15,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.6.7",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
