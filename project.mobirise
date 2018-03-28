@@ -170,7 +170,7 @@
           "_params": {
             "showBullets": true,
             "filter": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "paddingTop": "0",
             "paddingBottom": "4",
             "noGutter": true,
@@ -178,10 +178,65 @@
             "bgColor": "#fff",
             "images": [
               {
-                "tags": "Top Producers",
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adam-ignacio-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adam-ignacio-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners, Top Producers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "image": "@PROJECT_PATH@/assets/images/anngel-benuon-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/anngel-benuon-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bev-gingrich-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bev-gingrich-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/chris-helberg-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chris-helberg-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/chris-zastrow-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chris-zastrow-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/chuck-lamm-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chuck-lamm-2000x2000-800x800.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "caption": "Type caption here",
@@ -202,6 +257,17 @@
               {
                 "tags": "Office Sales Partners",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diana-walker-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diana-walker-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners, Top Producers",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dippy-chhina-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dippy-chhina-2000x2000-800x800.jpg",
                 "playVideo": false,
@@ -211,10 +277,153 @@
                 "alt": ""
               },
               {
-                "tags": "Top Producers",
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/florence-fong-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/florence-fong-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners, Top Producers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "image": "@PROJECT_PATH@/assets/images/henry-suarez-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/henry-suarez-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/irene-daly-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/irene-daly-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jenny-ho-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jenny-ho-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jim-evelyn-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jim-evelyn-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kara-handy-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kara-handy-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kathy-wales-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kathy-wales-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/linda-carreon-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/linda-carreon-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/manvel-solakian-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/manvel-solakian-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/margaret-chang-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/margaret-chang-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maria-muriello-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maria-muriello-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mary-poehler-bernstein-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mary-poehler-bernstein-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/max-pellegrini-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/max-pellegrini-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mina-hong-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mina-hong-2000x2000-800x800.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "caption": "Type caption here",
@@ -233,7 +442,18 @@
                 "alt": ""
               },
               {
-                "tags": "Top Producers",
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/potjanee-sri-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/potjanee-sri-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners, Top Producers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "image": "@PROJECT_PATH@/assets/images/prudence-stein-greene-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/prudence-stein-greene-2000x2000-800x800.jpg",
@@ -244,7 +464,7 @@
                 "alt": ""
               },
               {
-                "tags": "Top Producers",
+                "tags": "Office Sales Partners, Top Producers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ralph-suarez-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ralph-suarez-2000x2000-800x800.jpg",
@@ -255,7 +475,18 @@
                 "alt": ""
               },
               {
-                "tags": "Top Producers",
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sherry-susan-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sherry-susan-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners, Top Producers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "image": "@PROJECT_PATH@/assets/images/stacy-richardson-jennifer-sommers-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/stacy-richardson-jennifer-sommers-2000x2000-800x800.jpg",
@@ -266,7 +497,29 @@
                 "alt": ""
               },
               {
-                "tags": "Top Producers",
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/steve-purves-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/steve-purves-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/suzanne-clayton-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/suzanne-clayton-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners, Top Producers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tim-freund-2000x2000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tim-freund-2000x2000-800x800.jpg",
@@ -284,7 +537,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Office Sales Partners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wendy-wong-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wendy-wong-2000x2000-800x800.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
                 "alt": ""
               }
             ]
