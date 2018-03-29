@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-25_1822",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -21,7 +21,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 20,
+    "uniqCompNum": 25,
     "versionPublish": "4.6.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -62,7 +62,7 @@
           },
           "title": "Dilbeck Awards 2018",
           "text": "Find social share images for Dilbeck Award winners below. <br><b>Congrats epic Dilbeck agents!</b>",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://medium.com/dilbeck-awards-2018\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT awards blog</a><a data-app-btn=\"true\" href=\"https://dilbeckrealestate.smugmug.com/Dilbeck-Awards/Dilbeck-Awards-Event-2018/n-QkchjG/\" class=\"btn mbr-title-font btn-lg btn-default btn-border\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD Event Photos&nbsp;<i class=\"fa fa-angle-right\"></i></a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://medium.com/dilbeck-awards-2018\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT awards blog</a><a data-app-btn=\"true\" href=\"https://dilbeckrealestate.smugmug.com/Dilbeck-Awards/Dilbeck-Awards-Event-2018/n-QkchjG/\" class=\"btn mbr-title-font btn-lg btn-default btn-border\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Event Photos&nbsp;<i class=\"fa fa-angle-right\"></i></a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -92,15 +92,15 @@
             "iconsColor": "#3f4244",
             "icon1": "fa-mobile",
             "icon2": "fa-envelope",
-            "icon3": "fa-trophy"
+            "icon3": "fa-question-circle"
           },
-          "title1": "REQUEST A DESIGN",
+          "title1": "REQUEST A Change",
           "title2": "EMAIL ANNOUNCEMENTS",
-          "title3": "generic images",
+          "title3": "Need Help?",
           "title4": "Flashy Look",
-          "text1": "If you don't have a social share below, please request your award share image from the feedback form at the bottom of the page or email ashley.ray@dilbeck.com",
+          "text1": "Need a change or correction to your award image? Use the feedback form at the bottom of the page or email ashley.ray@dilbeck.com",
           "text2": "All the below designs have been uploaded into the CRM, and there is a template ready to be customized and sent to your sphere. Ask a MarTek for assistance.",
-          "text3": "There are a generic award announcements for each award that aren't branded to an individual agent. Find them&nbsp;<a href=\"page1.html\" target=\"_blank\">here</a>.",
+          "text3": "Reach out to your office MarTek with any questions on how to download images, share on social media, or send your email announcement through the CRM.",
           "text4": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.",
           "alias": "unicore/components",
           "_tags": [
@@ -551,7 +551,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Let me know your name and the awards you would like featured. :)"
+                "customTitle": "Let me know your name and the corrections you would like made. :)"
               }
             }
           },
@@ -564,9 +564,13 @@
         }
       ]
     },
-    "page1.html": {
+    "page2.html": {
       "settings": {
-        "title": "Generic Award Shares",
+        "title": "Award Shares",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
         "order": 1
       },
       "components": [
@@ -574,10 +578,39 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-45053502f5cc-1-2000x666.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.35
+          },
+          "title": "Dilbeck Awards 2018",
+          "text": "Find social share images for Dilbeck Award winners below. <br><b>Congrats epic Dilbeck agents!</b>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://medium.com/dilbeck-awards-2018\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT awards blog</a><a data-app-btn=\"true\" href=\"https://dilbeckrealestate.smugmug.com/Dilbeck-Awards/Dilbeck-Awards-Event-2018/n-QkchjG/\" class=\"btn mbr-title-font btn-lg btn-default btn-border\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Event Photos&nbsp;<i class=\"fa fa-angle-right\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-k"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
@@ -588,17 +621,32 @@
             },
             "overlay": true,
             "overlayColor": "#151515",
-            "overlayOpacity": 0.75
+            "overlayOpacity": 0.5,
+            "showIcons": true,
+            "iconsColor": "#3f4244",
+            "icon1": "fa-mobile",
+            "icon2": "fa-envelope",
+            "icon3": "fa-question-circle"
           },
-          "title": "Generic Award Shares",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"https://mobirise.com\">Purchase now</a>",
+          "title1": "REQUEST A Personalized Image",
+          "title2": "EMAIL ANNOUNCEMENTS",
+          "title3": "Need Some Help",
+          "title4": "Flashy Look",
+          "text1": "If you would like a personalized award image, request it from the feedback form at the bottom of the page or email ashley.ray@dilbeck.com.",
+          "text2": "All the below designs have been uploaded into the CRM, and there is a template ready to be personalized and sent to your sphere. Ask a MarTek for assistance.",
+          "text3": "Reach out to your office MarTek with any questions on how to download images, share on social media, or send your email announcement through the CRM.",
+          "text4": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-j"
+          "_name": "features4",
+          "_styles": {
+            "i": {
+              "color": "#3f4244 !important"
+            }
+          },
+          "_anchor": "features4-l"
         },
         {
           "_params": {
@@ -612,60 +660,53 @@
             "bgColor": "#fff",
             "images": [
               {
-                "tags": "Animated",
-                "image": "@PROJECT_PATH@/assets/images/img-2607-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2607-2000x2000-800x800.png",
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1.jpg",
                 "caption": "Type caption here",
-                "active": false,
-                "alt": ""
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "image": "@PROJECT_PATH@/assets/images/3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "image": "@PROJECT_PATH@/assets/images/4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4.jpg",
+                "caption": "Type caption here"
               },
               {
                 "tags": "Animated",
-                "image": "@PROJECT_PATH@/assets/images/img-2608-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2608-2000x2000-800x800.png",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
+                "image": "@PROJECT_PATH@/assets/images/5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "image": "@PROJECT_PATH@/assets/images/6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6.jpg",
+                "caption": "Type caption here"
               },
               {
                 "tags": "Animated",
-                "image": "@PROJECT_PATH@/assets/images/img-2605-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2605-2000x2000-800x800.png",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
+                "image": "@PROJECT_PATH@/assets/images/7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7.jpg",
+                "caption": "Type caption here"
               },
               {
                 "tags": "Animated",
-                "image": "@PROJECT_PATH@/assets/images/img-fc688163434d-1-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-fc688163434d-1-2000x2000-800x800.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "image": "@PROJECT_PATH@/assets/images/img-3ba923c756b7-1-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3ba923c756b7-1-2000x2000-800x800.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "image": "@PROJECT_PATH@/assets/images/img-1c58f2c5a166-1-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1c58f2c5a166-1-2000x2000-800x800.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "image": "@PROJECT_PATH@/assets/images/img-2609-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2609-2000x2000-800x800.png",
-                "caption": "Type caption here",
-                "active": true,
-                "alt": ""
+                "image": "@PROJECT_PATH@/assets/images/8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8.jpg",
+                "caption": "Type caption here"
               }
             ]
           },
@@ -675,7 +716,60 @@
             "Theme"
           ],
           "_name": "gallery2",
-          "_anchor": "gallery2-i"
+          "_anchor": "gallery2-o"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3f4244",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-default btn-ico\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Message<i class=\"fa fa-paper-plane-o\"></i></a>",
+          "form": {
+            "action": "ashleydray3@gmail.com",
+            "alerts": {
+              "success": "Thanks guys! I'll be getting back to you in the order the requests were received. \n\nCongrats on your amazing win! \n\n:)\nAshley"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Your Name here*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email Address here*"
+              },
+              "subject": {
+                "visible": true,
+                "title": "subject",
+                "customTitle": "Request for Award Share Image"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Let me know your name and the awards you would like featured. :)"
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-n"
         }
       ]
     }
