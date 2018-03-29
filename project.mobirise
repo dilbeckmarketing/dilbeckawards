@@ -660,53 +660,76 @@
             "bgColor": "#fff",
             "images": [
               {
-                "tags": "Awesome",
-                "image": "@PROJECT_PATH@/assets/images/1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1.jpg",
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-3ba923c756b7-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3ba923c756b7-1-2000x2000-800x800.jpg",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "image": "@PROJECT_PATH@/assets/images/2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "image": "@PROJECT_PATH@/assets/images/3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "image": "@PROJECT_PATH@/assets/images/4.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4.jpg",
-                "caption": "Type caption here"
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Animated",
-                "image": "@PROJECT_PATH@/assets/images/5.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "image": "@PROJECT_PATH@/assets/images/6.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6.jpg",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/img-1c58f2c5a166-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1c58f2c5a166-1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Animated",
-                "image": "@PROJECT_PATH@/assets/images/7.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7.jpg",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/img-fc688163434d-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-fc688163434d-1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Animated",
-                "image": "@PROJECT_PATH@/assets/images/8.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/8.jpg",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/img-2605-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2605-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-2608-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2608-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-2607-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2607-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-2609-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2609-2000x2000-800x800.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-6d6bd627bc7f-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6d6bd627bc7f-1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/img-298b0cd4ca7b-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-298b0cd4ca7b-1-2000x2000-800x800.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
               }
             ]
           },
